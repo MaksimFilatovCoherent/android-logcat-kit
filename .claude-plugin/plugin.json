@@ -1,0 +1,12 @@
+{
+  "name": "android-logcat-kit",
+  "version": "1.0.0",
+  "description": "Reads Android logcat output - crashes, ANRs, StrictMode violations, Compose jank - and maps stack frames to your Kotlin, Compose and Hilt code.",
+  "author": {
+    "name": "Maksim Filatov"
+  },
+  "homepage": "https://github.com/MaksimFilatovCoherent/android-logcat-kit",
+  "repository": "https://github.com/MaksimFilatovCoherent/android-logcat-kit",
+  "keywords": ["android", "logcat", "adb", "crash", "anr", "strictmode", "jetpack-compose"],
+  "license": "MIT"
+}
